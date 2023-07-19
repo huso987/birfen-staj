@@ -1,0 +1,14 @@
+Çalıştıgım kavramlar
+
+Quaternion, TF ,Urdf ,Package nodes  
+
+
+ROS for Beginners II: Localization, Navigation and SLAM de  
+06 - The TF Package Frames, Transformations and Localization in ROS Explained dersinde 5 nci videoya kadar bitiridim
+
+
+
+c++ da switch , while loop, for loop, break/continue , arrays,structures,references,pointers,functions konularını ögrendim ve örnek çözdüm
+QUATERNION TO EULER  rin python kodunu ve c++ kodunu yazdım
+
+Transformationmatris  hesaplama python kodunu yazdım
