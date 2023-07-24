@@ -1,0 +1,4 @@
+08 - Configuration and Tuning of the Navigation Stack Parameters
+09 - Reactive Navigation    derslerini tammmladım 
+ubuntu 22.04   ve Ros2 kurulumunu yaptım 
+ROS2 For Beginners (ROS Foxy, Humble - 2023) kursunda bölüm 1 ve 2 yi tamamladım
