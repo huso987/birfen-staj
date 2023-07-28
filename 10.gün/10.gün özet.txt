@@ -1,0 +1,1 @@
+Ros2 6.ders 62 ci video ya kadar izledim  .ROS2 services client/server communication between nodes
