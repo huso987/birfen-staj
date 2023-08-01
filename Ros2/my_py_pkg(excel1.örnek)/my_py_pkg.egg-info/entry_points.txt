@@ -1,0 +1,6 @@
+[console_scripts]
+cmdvelpublisher = my_py_pkg.cmdvelpublisher:main
+elevator_service = my_py_pkg.elevator_service:main
+odomtopicsub = my_py_pkg.odomtopicsub:main
+py_node = my_py_pkg.my_first_node:main
+
