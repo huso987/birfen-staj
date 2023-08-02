@@ -10,8 +10,7 @@ class CmdVelPublisher(Node):
         self.cmd_vel_msg = Twist()
 
     def publish_cmd_vel(self):
-        # Yayın yapılacak komutları burada ayarlayın
-        # Örnek olarak robotu ileri doğru hareket ettirin
+       
         self.cmd_vel_msg.linear.x = 3.2
         self.cmd_vel_msg.angular.z = 3.0
         self.publisher_.publish(self.cmd_vel_msg)
