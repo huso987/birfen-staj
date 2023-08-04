@@ -1,8 +1,15 @@
-1-ros2 run turtlesim turtlesim_node 
+1)ros2 run turtlesim turtlesim_node 
 
-for shapedrawer
-2-ros2 run my_py_pkg shapedrawer
+2)for shapedrawer
 
-for pathfollower
-3-ros2 run my_py_pkg pathfollower
+ros2 run my_py_pkg shapedrawer
+
+3)for pathfollower
+
+ros2 run my_py_pkg pathfollower
+
+4)for turtlecontroler
+
+ros2 run my_py_pkg turtlecontrol
+
 

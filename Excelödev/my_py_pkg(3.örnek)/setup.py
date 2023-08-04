@@ -21,7 +21,8 @@ setup(
     entry_points={
         'console_scripts': [
            "shapedrawer = my_py_pkg.shapedrawernode:main",
-           "pathfollower = my_py_pkg.pathfollowernode:main"
+           "pathfollower = my_py_pkg.pathfollowernode:main",
+           "turtlecontrol = my_py_pkg.turtlecontroler.py:main"
            
         ],
     },
