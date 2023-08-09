@@ -1,4 +1,5 @@
-![image](https://github.com/huso987/birfen-staj/assets/66470348/7455271a-1755-4f8d-ba2a-352bf4bb0330)
+![image](https://github.com/huso987/birfen-staj/assets/66470348/3c750fc2-4c6c-48e0-8da2-28b229360041)
+
 
 ## Install Dependent ROS 2 Packages
 
