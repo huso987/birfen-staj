@@ -1,1 +1,0 @@
-Ros2 de 7nci derse kadar msg ve srv de örenk yaptım

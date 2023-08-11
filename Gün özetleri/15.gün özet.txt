@@ -1,3 +1,0 @@
-Gerekli paket yüklemelerini gerçekleştiridim .
-bir .dae modelini gazeboya aktardım
-ve  Önceden belirlenmiş bir hedefe ulaşmak için TurtleBot'u programladım 

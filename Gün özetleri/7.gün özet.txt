@@ -1,2 +1,0 @@
-ilk olarak gerekli paket kurulumlarına devam ettim sonra
-ROS2 For Beginners (ROS Foxy, Humble - 2023) de 3.dersi bitirdim . ve c++ da class yapsına baktım  ayrıca  videodaki oop örnekleri için python ve c++ da oop çalıştım
